@@ -1,0 +1,77 @@
+{
+    "author": {
+        "name": "garry lanson",
+        "image":"http://author.my.dp.com",
+        "description": "author was born in earth.",
+        "twitter_link": "http://twitter.com/",
+        "facebook_link": "http://facebook.com/",
+        "website_link": "http://website.com/"
+    },
+    "video_meta": {
+        "title": "title of  teh video",
+        "description": "a long paragraph about video",
+        "enrolled": "5",
+        "views": "4",
+        "video_link": "http://www.video.com/video1",
+        "enroll_link": "http://www.enroll.com/video1",
+        "field_1": {
+            "key": "overview",
+            "value": "please write some shit about teh video"
+        },
+        "field_2": {
+            "key": "chapters",
+            "value": [
+                {
+                    "name": "title of teh chapter1..",
+                    "description": "some faltu text of chapters for teh blind",
+                    "duration": "1 hour 15 minutes",
+                    "topics": [
+                        {
+                            "name": "topic1",
+                            "duration": "20min"
+                        },
+                        {
+                            "name": "topic2",
+                            "duration": "40min"
+                        }
+                    ]
+                },
+                {
+                    "name": "title of teh chapter2..",
+                    "description": "some faltu text of chapters for teh blind",
+                    "duration": "2 hour 15 minutes",
+                    "topics": [
+                        {
+                            "name": "topic1",
+                            "duration": "20min"
+                        },
+                        {
+                            "name": "topic2",
+                            "duration": "40min"
+                        }
+                    ]
+                }
+            ]
+        },
+        "field_3": {
+            "key": "summary",
+            "value": [
+                {
+                    "icon_link": "http://www.link/location",
+                    "title": "title of summary1",
+                    "description": "description of summary1"
+                },
+                {
+                    "icon_link": "http://www.link/location",
+                    "title": "title of summary2",
+                    "description": "description of summary2"
+                },
+                {
+                    "icon_link": "http://www.link/location",
+                    "title": "title of summary3",
+                    "description": "description of summary3"
+                }
+            ]
+        }
+    }
+}
